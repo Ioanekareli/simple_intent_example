@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="service_stopped">Service Stopped</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="age">Age</string>
+    <string name="confirm">Confirm</string>
+</resources>
